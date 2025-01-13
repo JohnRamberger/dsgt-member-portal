@@ -52,7 +52,7 @@ const Login: FC<LoginProps> = () => {
           <form onSubmit={handleSubmit}>
             <FlexColumn width="100%">
               {/* <div className={styles.Alert}>
-              Accepting new members for the Fall 2024 semester! After paying 
+              Accepting new members for the Spring 2025 semester! After paying 
               the dues, your account will automatically be activated.
               Make sure to use the email associated with your previous account 
               on Stripe. Click{" "}
