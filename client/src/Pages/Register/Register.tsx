@@ -2412,7 +2412,7 @@ const Register: FC<RegisterProps> = () => {
               </h2>
               <div className={styles.Divider}></div>
               <p className={styles.Mini}>
-                Accepting new members for the Fall 2024 semester! After paying
+                Accepting new members for the Spring 2025 semester! After paying
                 the dues, your account will automatically be activated. Make
                 sure to use the email associated with your previous account on
                 Stripe. Click{" "}
